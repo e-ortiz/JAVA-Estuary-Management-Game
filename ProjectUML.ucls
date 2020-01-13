@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="View.Block" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/Block.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="220" y="2917"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="View.Map" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/Map.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="218" y="2339"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="3" language="java" name="View.Welcome" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/Welcome.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="105" y="859"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="4" language="java" name="Main.Main" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/Main/Main.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="251" y="189"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="Model.Quest" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/Model/Quest.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="416" y="2411"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="View.MainScreen" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/MainScreen.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="340" y="922"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="7" language="java" name="Model.Item" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/Model/Item.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="959" y="2330"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="8" language="java" name="Model.mModel" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/Model/mModel.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="895" y="1725"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="View.Scoreboard" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/Scoreboard.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="596" y="886"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="View.Tutorial2" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/Tutorial2.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="842" y="949"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="View.Tutorial1" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/Tutorial1.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1088" y="967"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="Model.Health" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/Model/Health.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="610" y="2411"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="View.View" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/View.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="569" y="466"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="Controller.Controller" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/Controller/Controller.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1133" y="225"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="View.MainScreenUI" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/View/MainScreenUI.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="912" y="361"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="16" language="java" name="Model.Team" project="project-fall-2018-team-10-6" 
+    file="/project-fall-2018-team-10-6/src/Model/Team.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="786" y="2321"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="17">    
+    <bendpoint x="201" y="1285"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="18" name="map">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="19" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="20">    
+    <bendpoint x="1263" y="381"/>    
+    <bendpoint x="1263" y="689"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="21" name="mm">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="22" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="8" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="23">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="24" name="quests_need_to_be_solved">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="25" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="26">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="27" name="s">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="28" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="9" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="29">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="30" name="t2">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="31" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="10" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="32">    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="33" name="view">        
+        <position height="0" width="0" x="-4" y="-49"/>      
+      </attribute>      
+      <multiplicity id="34" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-4" y="-49"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="35">    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="36" name="block">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="37" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="1" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="38">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="39" name="hp">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="40" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="41">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="42" name="m">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="43" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="6" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="44">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="45" name="t1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="46" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="11" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="47">    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="48" name="w">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="49" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <bendpoint x="1084" y="1285"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="51" name="mui">        
+        <position height="0" width="0" x="-252" y="-2131"/>      
+      </attribute>      
+      <multiplicity id="52" minimum="0" maximum="1">        
+        <position height="0" width="0" x="-252" y="-2131"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="15" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="8" navigable="false">      
+      <attribute id="54" name="quests_good">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="55" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
