@@ -1,10 +1,10 @@
-# Fall 2018, Team Game
-created by GitHub Classroom
+# project-fall-2018-team-10-6
+project-fall-2018-team-10-6 created by GitHub Classroom
 
 Team 10-6: Louise Victoria Cancino, Zuyue Xie, Edward Ortiz, Zhihao Zhang
 
-Project Description:
-- Topic: Steward/Estuary management
+Project description:
+- Topic: steward/estuary management
 - player will play the role of the estuary manager
 - the setting of the game will be in St. Jones' River
 - there will be characters on the map that will play the roles of estuary employees;
