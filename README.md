@@ -1,7 +1,7 @@
 # project-fall-2018
 project-fall-2018-team-10-6 created by GitHub Classroom
 
-Team 10-6: Louise Victoria Cancino, Zuyue Xie, Edward Ortiz, Zhihao Zhang
+Team Members: Louise Victoria Cancino, Zuyue Xie, Edward Ortiz, Zhihao Zhang
 
 Project description:
 - Topic: steward/estuary management
